@@ -8,7 +8,7 @@ This tool shows unprocessed deeplink that have opened the app same way that app 
 
 ## Usage
 
-Download and install `deept.apk` from [releases](https://github.com/vearutop/deept/releases).
+Download and install [`deept.apk`](https://github.com/vearutop/deept/releases/download/v0.1.0/deept.apk) from [releases](https://github.com/vearutop/deept/releases).
 
 ![Screenshot](screenshot.jpg)
 
