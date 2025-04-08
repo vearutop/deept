@@ -14,6 +14,8 @@ Download and install [`deept.apk`](https://github.com/vearutop/deept/releases/do
 
 [Page with sample links](https://tools.webs.vc/mock?body=GwADoGRqXv8Sp%2FhsI%2FKuQ5q6Ccw%2FR8OiNnW%2BNkEcSRygZXNacHVzarC8h5slKelCQ7FFGPCkhC8v8b7hPf0Y3EIdxtLqaiFxCCfwRiOcniow5KW7Hjsd1CcM6MdTRqheFiPPdi3Pfmm7rpfTGfiax0an3EfrXulgfwJUxCbn9YYS2Rm9OyM%2BYmgFbkqTbRQMNVqxTLACNKQ4htm1SapSLR%2Bz1RaZSyjLs30Dib9MMAJj%2Fppc%2B6i157keIrNE6hORCYEEHiqlmktvsZ1L%2BjfDd8O%2BjT5kwhw%2BVX7Au0B4nBj1smh5tjsfXvMvQoUFtYzBFVI2LFm3ytiqDQ%3D%3D&ct=text%2Fhtml)
 
+You can create your own mocked links to serve from `https://deept.webs.vc` [here](https://deept.webs.vc/docs#/Create%20Mock/CreateMock).
+
 [deept direct](deept://foo?bar=baz&quux)
 ```
 deept://foo?bar=baz&quux
