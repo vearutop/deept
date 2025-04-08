@@ -22,6 +22,29 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="deept" />
+            </intent-filter>
+
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:host="deept.webs.vc"
+                    android:scheme="https" />
+                <!-- Optional: If you want to handle specific paths -->
+                <!--
+                <data
+                    android:host="tools.webs.vc"
+                    android:scheme="https"
+                    android:pathPrefix="/some-path" />
+                -->
+            </intent-filter>
         </activity>
     </application>
 
